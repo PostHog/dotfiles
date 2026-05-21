@@ -1,8 +1,8 @@
 # PostHog dotfiles
 
-An index of personal dotfiles repos maintained by people who work at PostHog. These are personal setups, not official PostHog configuration. Fork, steal, get inspired.
+An index of personal dotfiles repos from people at PostHog. Personal setups, not official PostHog config.
 
-If you're looking for official PostHog Claude Code skills, run `claude plugin install posthog`.
+For official PostHog Claude Code skills: `claude plugin install posthog`.
 
 ## Index
 
@@ -14,4 +14,4 @@ If you're looking for official PostHog Claude Code skills, run `claude plugin in
 
 ## Add yours
 
-Open a PR adding a row to the table. One line, link to your repo, a few words on what's notable. That's it.
+Main isn't protected, so just push a row to the table. PR if you'd rather.
