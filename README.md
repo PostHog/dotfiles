@@ -4,13 +4,9 @@ An index of personal dotfiles repos from people at PostHog. Personal setups, not
 
 ## Adopting pieces
 
-You don't need to clone anyone's whole setup. A few common shapes:
+Tell your agent:
 
-- **A single Claude skill or command**: copy the file from someone's `ai/skills/` or `.claude/commands/` into your own.
-- **A bash helper**: grab the script and any `bin/lib/` helpers it sources.
-- **The whole `.claude/` directory**: fork someone's, then adapt.
-
-Or tell your agent: *"look at PostHog/dotfiles, find a triage-issues command, copy it into my .claude/commands"*.
+> Look at PostHog/dotfiles, find a triage-issues command, copy it into my `.claude/commands`.
 
 ## The index
 
