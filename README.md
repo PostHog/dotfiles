@@ -20,9 +20,7 @@ Push to main to add yours.
 
 ## Make your own from scratch
 
-Paste in your agent:
-
-> Scan my `~/.claude/`, shell rc files, git/tmux config. Make a public github repo with what's shareable, scrubbing tokens, keys, and private hostnames. Then add a row to PostHog/dotfiles.
+Paste the contents of [bootstrap.md](bootstrap.md) into your agent.
 
 ---
 
